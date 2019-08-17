@@ -1,0 +1,3 @@
+﻿  Binary Search Program.cpp
+c:\users\jessica\source\repos\binary search program\binary search program\binary search program.cpp(64): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Binary Search Program.vcxproj -> C:\Users\Jessica\source\repos\Binary Search Program\Debug\Binary Search Program.exe
